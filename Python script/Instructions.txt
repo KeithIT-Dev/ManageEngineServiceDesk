@@ -1,0 +1,1 @@
+place KeithAutoShareRequest.py and the request folder in the \ManageEngine\ServiceDesk\integration\custom_scripts folder on your server
