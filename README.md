@@ -8,4 +8,4 @@ To make this process more efficient, I have published the python code that will 
 
 The complete instructions are available on my blog here https://www.keithit.com/auto-share-requests-to-users-in-the-field-email-ids-to-notify_post4076.html
 
-If you have any questions or comments, please feel free to reach out on my contact form of my blog at https://www.keithit.com
+If you have any questions or comments, please feel free to reach out on my contact form of my blog at https://www.keithit.com - Keith A. Smith
